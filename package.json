@@ -2,10 +2,10 @@
   "name": "js-project-team10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/BogdanL-UA/JS-Project-Team10",
+  "homepage": "https://github.com/Svetlana210/Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS-Project-Team10/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
     "basiclightbox": "^5.0.4",
     "firebase": "^9.15.0",
     "body-scroll-lock": "^4.0.0-beta.0",
-
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.5",
     "spin.js": "^4.1.1",
